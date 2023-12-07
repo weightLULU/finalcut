@@ -84,3 +84,11 @@
         align-items: flex-start;
     }
 }
+
+.nav__center {
+@media (max-width: 426px) {
+  height: 40px;
+  width: 200px;
+  background-size: 90%;
+}
+}
